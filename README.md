@@ -21,6 +21,9 @@ testing, prefer an isolated virtual machine or disposable lab host. The helper i
 trigger memory corruption, overwrite files, spawn a shell, or modify system
 state.
 
+> [!CAUTION]
+>  You need to understand what you are doing before running `copy_fail_exp.py`. You are solely responsible for the consequences of running this script. Do not run this script on unauthorized computer devices, as this will have unforeseen legal consequences. This code is for educational purposes, technical research, and security testing only; please do not use it for illegal purposes.
+
 ## Quick Start
 
 Run the safe assessment helper:

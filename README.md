@@ -24,6 +24,8 @@ state.
 > [!CAUTION]
 >  You need to understand what you are doing before running `copy_fail_exp.py`. You are solely responsible for the consequences of running this script. Do not run this script on unauthorized computer devices, as this will have unforeseen legal consequences. This code is for educational purposes, technical research, and security testing only; please do not use it for illegal purposes.
 
+Source of copy_fail_exp.py:[theori-io/copy-fail-CVE-2026-31431/copy_fail_exp.py](https://github.com/theori-io/copy-fail-CVE-2026-31431/blob/main/copy_fail_exp.py)
+
 ## Quick Start
 
 Run the safe assessment helper:

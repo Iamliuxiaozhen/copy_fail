@@ -1,5 +1,8 @@
-# copy_fail 研究笔记
+<h1 align="center"> copy_fail 研究笔记</h1>
 
+<p align="center">CVE-2026-31431</p>
+
+<hr>
 本仓库是一个防御性研究工作区，用于研究被跟踪为 `CVE-2026-31431`
 的 Linux `copy_fail` 漏洞。
 

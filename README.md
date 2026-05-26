@@ -1,4 +1,8 @@
-# copy_fail Research Notes
+<h1 align="center"> copy_fail Research Notes</h1>
+
+<p align="center">CVE-2026-31431</p>
+
+<hr>
 
 This repository is a defensive research workspace for studying the Linux
 `copy_fail` vulnerability tracked as `CVE-2026-31431`.
